@@ -10,7 +10,7 @@
       "name": "cc-tutor",
       "source": "./",
       "description": "Claude Code 초보자 튜터 — 질문으로 깨닫게 하는 단계별 커리큘럼",
-      "version": "1.0.2"
+      "version": "1.0.3"
     }
   ]
 }
