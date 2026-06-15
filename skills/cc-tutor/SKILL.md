@@ -41,7 +41,7 @@ description: Claude Code 초보자용 튜터. 스킬 만드는 법, 컨텍스트
 |---|---|---|---|---|
 | **L0** | 암묵지+하니스 | "규칙을 파일에 적으면 작동한다" | 없음 | lessons/00-orientation.md |
 | **L1** | Skill 기본 | "SKILL.md = 이름 + 언제 + 규칙" | mail-polish 체험 | lessons/01-first-skill.md |
-| **L2** | Context 한계 | 토큰·작업대(1M=해리포터 전권)·"AI는 매번 다시 읽는다"·Lost in the Middle 그래프 + "필요한 것만 로드" | memo-clean 체험 | lessons/02-context.md |
+| **L2** | Context 한계 | 토큰·작업대(1M≈해리포터 5~6권)·"AI는 매번 다시 읽는다"·Lost in the Middle 그래프 + "필요한 것만 로드" | memo-clean 체험 | lessons/02-context.md |
 | **L3** | 템플릿 | "양식은 고정, 값만 바꾼다" | notice-maker 체험 | lessons/03-templates.md |
 | **L4** | Subagent | "검증은 깨끗한 새 AI가 한다" (확증편향·앵커링 설명) | **Task A→B→C 스킬 직접 만들기** | lessons/04-subagent.md |
 | **L4.5** | MCP 맛보기 | "커넥터 설치는 쉽다 — 설치해줘+인증이면 끝" | docs-lookup 체험 | lessons/04b-mcp.md |

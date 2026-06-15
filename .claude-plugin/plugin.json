@@ -1,7 +1,7 @@
 {
   "name": "cc-tutor",
   "description": "Claude Code 초보자 튜터 — 질문으로 깨닫게 하는 단계별 커리큘럼 (스킬 작성, 컨텍스트 관리, subagent 검증, MCP)",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "colorxxx",
     "email": "chicider@gmail.com"
