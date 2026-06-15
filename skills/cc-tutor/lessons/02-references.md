@@ -9,11 +9,11 @@
 - L0 복습: "AI에게는 암묵지가 필요하다" → 그 답: **스킬 폴더에 지식 파일을 같이 넣는다.**
 ```
 memo-clean/
-├── SKILL.md          ← 레시피 (얇게)
+├── SKILL.md          ← 업무지시서 (얇게)
 └── references/
     └── 용어집.md      ← 나만 아는 지식 (두꺼워도 OK)
 ```
-- **progressive disclosure**: 평소엔 이름+description만 보임 → 발동하면 본문 로드 → references는 **필요한 순간에만** 읽음. 그래서 지식 파일은 두꺼워도 공짜에 가깝다. **"레시피는 얇게, 백과사전은 두껍게."**
+- **progressive disclosure**: 평소엔 이름+description만 보임 → 발동하면 본문 로드 → references는 **필요한 순간에만** 읽음. 그래서 지식 파일은 두꺼워도 공짜에 가깝다. **"업무지시서는 얇게, 백과사전은 두껍게."**
 
 ## 설치 (복사 한 줄)
 ```
@@ -36,7 +36,7 @@ cp -r ${CLAUDE_PLUGIN_ROOT}/skills/cc-tutor/examples/memo-clean ~/.claude/skills
 
 **Q1. 분량 많은 업무 지식을 스킬에 넣는 가장 좋은 방법은?**
 - ① SKILL.md 본문에 전부 붙여넣기 / ② references/ 파일로 분리하고 필요할 때 읽게 하기 ✅ / ③ 매번 대화창에 복사 / ④ description에 넣기
-해설: 레시피는 얇게, 백과사전은 두껍게.
+해설: 업무지시서는 얇게, 백과사전은 두껍게.
 
 **Q2. progressive disclosure 설명으로 맞는 것은?**
 - ① 스킬을 단계적으로 유료 결제 / ② 평소엔 이름+설명만, 본문·참조파일은 필요할 때만 로드 ✅ / ③ 스킬을 점점 길게 쓰기 / ④ 시작할 때 모든 파일을 한꺼번에 읽기

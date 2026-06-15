@@ -48,4 +48,4 @@ cp -r ${CLAUDE_PLUGIN_ROOT}/skills/cc-tutor/examples/notice-maker ~/.claude/skil
 ## 마무리 3줄 요약 포인트
 - templates/ = 결과물의 모양 고정. {중괄호}만 갈아끼운다.
 - 검증 체크리스트 + "실패 시 재검증" 한 줄이 품질의 바닥을 깐다.
-- 다음 시간: 주방에 **도구(MCP)** — AI가 진짜 법령 DB를 만지는 preset을 굴려본다.
+- 다음 시간: 바깥세상으로 통하는 **통로(MCP)** — AI가 진짜 법령 DB를 만지는 preset을 굴려본다.
